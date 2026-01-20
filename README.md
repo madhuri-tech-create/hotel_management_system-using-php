@@ -1,0 +1,2 @@
+The Hotel Management System is a web-based application developed using PHP and MySQL to simplify and automate hotel operations. The system provides a centralized platform for managing room details, customer records, bookings, and billing processes efficiently.
+It allows the administrator to add and manage rooms, track room availability, handle customer reservations, and generate billing information. By replacing manual record-keeping with a digital solution, the system improves accuracy, reduces workload, and enhances overall operational efficiency.
